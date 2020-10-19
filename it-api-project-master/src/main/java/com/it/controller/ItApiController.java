@@ -17,7 +17,7 @@ import com.it.dto.StudentDto;
 import com.it.service.StudentService;
 
 @RestController
-public class ItApiController {
+public class ItApiController  {
 	
 	@Autowired
 	StudentService studentService;
